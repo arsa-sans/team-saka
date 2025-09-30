@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/dasboard', function () {
-    return view('welcome back');
+    return view('welcome');
 });
